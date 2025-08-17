@@ -1,2 +1,21 @@
-# Cookie-Clicker
-Cookie Clicker is an incremental game where the main goal is to bake as many cookies as possible. The player starts with a cookie counter that increases every time they click (or press a key). As more cookies are collected, the player can spend them on upgrades such as auto-clickers, multipliers, or other features that boost cookie production.
+# Cookie Clicker (Python Edition) 🍪
+
+**Cookie Clicker** is a fun and addictive incremental game where your goal is to bake as many cookies as possible!
+
+## How to Play
+- Start with 0 cookies.
+- Click the cookie (or press the assigned key) to earn more cookies.
+- Spend cookies on upgrades to increase your cookie production.
+- Watch your cookie count grow faster as you unlock more features!
+
+## Features
+- Manual clicking to earn cookies.
+- Upgrade system to boost cookie production.
+- Simple and interactive interface.
+- Fun for both short sessions and long-term gameplay.
+
+## Installation
+1. Make sure you have Python installed (version 3.7+ recommended).
+2. Download or clone this repository:
+   ```bash
+   git clone <repository-link>
